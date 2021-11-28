@@ -103,6 +103,8 @@ a {
   }
 
   &--stroke {
+    border-color: var(--color-light);
+
     &-primary {
       border-color: var(--color-primary);
       color: var(--color-light);
